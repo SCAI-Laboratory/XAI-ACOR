@@ -7,5 +7,5 @@
 * ⚙️ **Insightful Hyperparameter Analysis** – Leverages IOHprofiler & IOHxplainer to reveal how configurations impact performance
 * 🌱 **Landscape-Aware Optimization** – Links ELA features with performance using decision trees for interpretable and smart parameter tuning 🚀
 
-## Get Startted
+## Getting Started
 This project uses Python 3.11 and requires the libraries listed in the [`requirement.txt`](./requirement.txt) file.
