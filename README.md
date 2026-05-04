@@ -10,7 +10,7 @@
 ## Requirements
 
 - Python 3.11
-- Required Python libraries (see `requirements.txt`)
+- Required Python libraries (see [`requirements.txt`](./requirements.txt))
 - Microsoft Visual C++ Build Tools (needed to compile some dependencies)
 
 ## Setup
