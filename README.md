@@ -1,3 +1,6 @@
+Cite this work: 
+Gupta, N., & Yadav, A. (2026). An interpretability framework for Ant Colony Optimization in continuous domains. Swarm and Evolutionary Computation, 107, 102449.
+
 # An Interpretability Framework for Ant Colony Optimization in Continuous Domains
 
 ### ✨ Highlights
